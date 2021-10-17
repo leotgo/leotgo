@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Unreal Engine 5**
 
-- 👨‍💻 All of my projects are available at [leotgo.itch.io](leotgo.itch.io)
-
 - 📫 How to reach me **leonardotgo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
