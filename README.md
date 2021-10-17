@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leo!</h1>
 <h3 align="center">A game development enthusiast from Brazil</h3>
 
-- 🔭 I’m currently working on [Bright Souls](github.com/leotgo/bright-souls)
+- 🔭 I’m currently working on [Bright Souls](bright-souls)
 
 - 🌱 I’m currently learning **Unreal Engine 5**
 
