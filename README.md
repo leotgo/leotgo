@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Bright Souls](https://github.com/leotgo/bright-souls)
 
-- 🌱 I’m currently learning **Unreal Engine 5**
+- 🌱 And learning **Unreal Engine 5**!
 
-- 📫 How to reach me **leonardotgo@gmail.com**
+- 📫 Reach me at: **leonardotgo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
