@@ -38,3 +38,5 @@
 <br>
 <h3 align="left">Check out my recent articles!</h3>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@leotgo/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@leotgo/0" alt="Recent Article 0"> 
+<br>
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@leotgo/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@leotgo/1" alt="Recent Article 1"> 
