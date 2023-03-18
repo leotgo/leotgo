@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leo!</h1>
-<h3 align="center">A game development enthusiast from Brazil</h3>
+<h3 align="center">Game programmer from Brazil</h3>
 
 - 🔭 I’m currently working at [Double Dash Studios](https://doubledashstudios.com/en)!
 
