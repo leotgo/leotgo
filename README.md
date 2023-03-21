@@ -34,7 +34,3 @@
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://www.qt.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 <br>
-<h3 align="left">Published Articles:</h3>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@leotgo/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@leotgo/0" alt="Recent Article 0"> 
-<br>
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@leotgo/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@leotgo/1" alt="Recent Article 1"> 
