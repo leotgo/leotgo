@@ -1,14 +1,19 @@
-<h1 align="center">Hi 👋, I'm Leo!</h1>
-<h3 align="center">Game programmer from Brazil</h3>
+<h1 align="center">Hello! 👋</h1>
 
+My name is Leonardo Tagliaro, and I'm game programmer from Brazil.
 - 🔭 I’m currently working at [Double Dash Studios](https://doubledashstudios.com/en)!
 - 📫 Contact: **leonardotgo@gmail.com**
 
+<h3 align="left">About this page:</h3>
+
+- This is my personal page for **hobby projects**, which are done in whatever free time I can find;
+- Here you may find personal open-source projects that I'm sharing, but I am unable to provide active support for them or guarantee that they will be updated, as they are by no means my source of income!
+
 <h3 align="left">About me:</h3>
 
+- I'm interested in the low-level technology behind games, such as Game Engines and Rendering technologies;
 - I'm a **tryhard**. I will do things from scratch just to learn how to do them;
 - I believe that deeply understanding problems is more important than memorizing existing solutions;
-- I'm interested in Game Engines. Specifically, I want to focus on **Rendering** and **Performance-dependant code**;
 - I want to develop high-quality technologies and tools that game developers can reliably depend on.
 
 <h3 align="left">Technologies:</h3>
