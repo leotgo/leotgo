@@ -1,6 +1,6 @@
 <h1 align="center">Hello! 👋</h1>
 
-My name is Leonardo Tagliaro, and I'm game programmer from Brazil.
+My name is Leonardo Tagliaro, and I'm a game programmer from Brazil.
 - 🔭 I’m currently working at [Double Dash Studios](https://doubledashstudios.com/en)!
 - 📫 Contact: **leonardotgo@gmail.com**
 
