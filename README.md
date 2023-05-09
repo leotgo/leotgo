@@ -12,7 +12,7 @@ My name is Leonardo Tagliaro, and I'm a game programmer from Brazil.
 <h3 align="left">About me:</h3>
 
 - I'm interested in the core technology behind games, such as Game Engines and Rendering technologies;
-- I'm a **tryhard**. I will do things from scratch just to learn how to do them;
+- I enjoy doing things from scratch just to learn how to do them;
 - I believe that deeply understanding problems is more important than memorizing existing solutions;
 - I want to develop high-quality technologies and tools that game developers can reliably depend on.
 
